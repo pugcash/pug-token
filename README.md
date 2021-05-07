@@ -28,6 +28,8 @@ Feel free to submit any request, either here on Github by opening an issue, or g
 
 **Coin Name**: Pug.Cash
 
+**Chain**: Binance Smart Chain 
+
 **Website**: https://pug.cash
 
 **Total Supply**: 100,000,000,000 (100 billions)
