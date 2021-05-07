@@ -22,20 +22,20 @@ Feel free to submit any request, either here on Github by opening an issue, or g
 
 ## Contract details
 
-Address: 0x04bd1bc77cdbf6af47d6891f6041425d535d7c58
+**Address**: 0x04bd1bc77cdbf6af47d6891f6041425d535d7c58
 
-Coin symbol: PUG
+**Coin symbol**: PUG
 
-Coin Name: Pug.Cash
+**Coin Name**: Pug.Cash
 
-Website: https://pug.cash
+**Website**: https://pug.cash
 
-Total Supply: 100,000,000,000 (100 billions)
+**Total Supply**: 100,000,000,000 (100 billions)
 
-Decimals: 18
+**Decimals**: 18
 
-Telegram: https://t.me/pugcash
+**Telegram**: https://t.me/pugcash
 
-Twitter: https://twitter.com/pug_cash
+**Twitter**: https://twitter.com/pug_cash
 
-Medium: https://pugcash.medium.com/
+**Medium**: https://pugcash.medium.com/
