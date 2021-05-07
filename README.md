@@ -1,6 +1,6 @@
 # PugCash Project
 
-$PUG is a #community owned project, built on #BinanceSmartChain, with a unique #fair token economy.
+$PUG is a community owned project, built on BinanceSmartChain, with a unique fair token economy.
 
 What makes $PUG so unique is:
 
